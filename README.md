@@ -119,3 +119,6 @@ Sales Channel
 👥 Customer Understanding: Segmentation reveals high-value customer groups.
 
 💼 Strategic Growth: Data-driven insights support planning and expansion.
+
+6. Screenshot/Demo
+https://github.com/Atharvaaa01/Papollo-hospital/blob/main/Snapshot%20of%20Dashboard.png
